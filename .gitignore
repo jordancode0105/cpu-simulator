@@ -12,6 +12,11 @@
 .factorypath
 .apt_generated/
 nbproject/private/
+.springBeans
+.sts4-cache/
+nbbuild/
+nbdist/
+.nb-gradle/
 
 # Java bytecode, build output, and local dependency downloads
 *.class
