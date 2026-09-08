@@ -1,0 +1,44 @@
+# IntelliJ IDEA (including nested projects)
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Other local IDE configuration
+.vscode/
+.classpath
+.project
+.settings/
+.factorypath
+.apt_generated/
+nbproject/private/
+
+# Java bytecode, build output, and local dependency downloads
+*.class
+out/
+build/
+target/
+bin/
+dist/
+.gradle/
+/.deps/
+
+# OS and extracted macOS archive metadata
+.DS_Store
+._*
+__MACOSX/
+Thumbs.db
+Desktop.ini
+
+# Logs, JVM crash dumps, and editor temporary files
+*.log
+hs_err_pid*
+replay_pid*
+*.hprof
+*.swp
+*.swo
+*~
+~$*
+
+# Original report retained locally, excluded from publication
+/report.docx
